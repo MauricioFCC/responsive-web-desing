@@ -1,2 +1,3 @@
-# resposive-web-desing
-Master class the Responsive Web Desing, cosepts and examples.
+### Proyecto de paguina web resposiva
+
+El siguinete proyecto fiene como fianlidad mostrar los diferente elementos del disenio web responsivo
